@@ -1,7 +1,9 @@
 # Arthur R. Viegas🖥️
 **`Engenheiro de Software`** 💻
 
-Me chamo Arthur Rodrigues Viegas, sou natural de Brasília-DF. Estudante de computação e programação formado em Análise e Desenvolvimento de Sistemas e cursando minha segunda graduação em Engenharia de software, ambos pela universidade CEUB. Aprimoro minhas habilidades diariamente com projetos voltados para funcionalidades Back-end. Minha conta profissional do linkedIn é [Arthur Rodrigues Viegas](https://www.linkedin.com/in/arthur-rvieg/).
+Estudante de Tecnologia da Informação apaixonado por computação, possuo uma base técnica sólida adquirida na graduação de Análise e Desenvolvimento de Sistemas. Atualmente, curso Engenharia de Software para aprofundar meus conhecimentos em arquitetura de sistemas, padrões de projeto e engenharia de software aplicada, sempre buscando a excelência em minha área de atuação.
+
+Com foco no desenvolvimento de soluções inovadoras, tenho conhecimentos principalmente nas linguagens Java e Kotlin, no framework Spring, nos serviços da Amazon Web Services (AWS) e em metodologias ágeis. Estou em constante busca por aprendizado, desafiando-me a assimilar novas tecnologias e melhores práticas para entregar não apenas código funcional, mas software de alta qualidade, performático e eficiente. Estou sempre aberto a novas oportunidades desafiadoras no universo do desenvolvimento.
 
 ---
 
